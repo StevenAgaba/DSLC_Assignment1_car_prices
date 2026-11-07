@@ -1,6 +1,6 @@
 # Automobile Price Analysis Using Python
 
-# Agaba Steven MSDS  S26M19/002   B38624
+# Agaba Steven MSDS,  S26M19/002,   B38624
 
 ## Overview
 This project analyses an automobile dataset to identify the key factors influencing vehicle prices using data cleaning, exploratory data analysis (EDA), visualisation, and feature selection techniques.
